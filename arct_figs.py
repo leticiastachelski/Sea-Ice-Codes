@@ -1,4 +1,6 @@
 #-----------------------------------------
+# This code plots the concentration of sea ice joining all the figures produced as a final product.
+#-----------------------------------------
 from netCDF4 import Dataset
 import numpy as np
 import matplotlib.pyplot as plt
